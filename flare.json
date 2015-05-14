@@ -2,31 +2,31 @@
  "name": "Staff Organizer",
  "children": [
   {
-   "name": "Regional Coordinator",
+   "name": "analytics",
    "children": [
     {
-     "name": "Club Captain",
+     "name": "cluster",
      "children": [
-      {"name": "Club Member", "size": 3938},
-      {"name": "Club Member", "size": 3812},
-      {"name": "Club Member", "size": 6714},
-      {"name": "Club Member", "size": 743}
+      {"name": "AgglomerativeCluster", "size": 3938},
+      {"name": "CommunityStructure", "size": 3812},
+      {"name": "HierarchicalCluster", "size": 6714},
+      {"name": "MergeEdge", "size": 743}
      ]
     },
     {
-     "name": "Club Captain",
+     "name": "graph",
      "children": [
-      {"name": "Club Captain", "size": 3534},
-      {"name": "Club Member", "size": 5731},
-      {"name": "Club Member", "size": 7840},
-      {"name": "Club Member", "size": 5914},
-      {"name": "Club Member", "size": 3416}
+      {"name": "BetweennessCentrality", "size": 3534},
+      {"name": "LinkDistance", "size": 5731},
+      {"name": "MaxFlowMinCut", "size": 7840},
+      {"name": "ShortestPaths", "size": 5914},
+      {"name": "SpanningTree", "size": 3416}
      ]
     },
     {
-     "name": "Club Captain",
+     "name": "optimization",
      "children": [
-      {"name": "Club Captain", "size": 7074}
+      {"name": "AspectRatioBanker", "size": 7074}
      ]
     }
    ]
@@ -50,13 +50,15 @@
       {"name": "Club Member", "size": 2042}
      ]
     },
-    {"name": "Club Captain", "size": 1041},
-    {"name": "Club Captain", "size": 5176},
-    {"name": "Club Captain", "size": 449},
-    {"name": "Club Captain", "size": 5593},
-    {"name": "Club Captain", "size": 5534},
-    {"name": "Club Captain", "size": 9201},
-    {"name": "Club Captain", "size": 19975},
+    {"name": "ISchedulable", "size": 1041},
+    {"name": "Parallel", "size": 5176},
+    {"name": "Pause", "size": 449},
+    {"name": "Scheduler", "size": 5593},
+    {"name": "Sequence", "size": 5534},
+    {"name": "Transition", "size": 9201},
+    {"name": "Transitioner", "size": 19975},
+    {"name": "TransitionEvent", "size": 1116},
+    {"name": "Tween", "size": 6006}
    ]
   },
   {
