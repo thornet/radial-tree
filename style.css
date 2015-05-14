@@ -1,13 +1,15 @@
 body {
+  background-color:#1E92CE;
   overflow: hidden;
   margin: 0;
-  font-size: 14px;
+  font-size: 14px;  
   font-family: 'Open Sans', sans-serif;  
 }
 
 #chart, #header, #footer {
   position: absolute;
   top: 0;
+  color: #fff;
 }
 
 #header, #footer {
@@ -15,12 +17,10 @@ body {
   display: block;
   font-size: 36px;
   font-weight: 300;
-  text-shadow: 0 1px 0 #fff;
 }
 
 #header.inverted, #footer.inverted {
   color: #fff;
-  text-shadow: 0 1px 4px #000;
 }
 
 #header {
@@ -45,7 +45,7 @@ pre {
 }
 
 line {
-  stroke: #000;
+  stroke: #61B2DC;
   stroke-width: 1.5px;
 }
 
@@ -54,16 +54,16 @@ line {
 }
 
 .keyword {
-  color: #00c;
+  color: #fff;
 }
 
 .comment {
-  color: #777;
+  color: #e3eaee;
   font-style: oblique;
 }
 
 .number {
-  color: #369;
+  color: #fff;
 }
 
 .class, .special {
@@ -71,12 +71,12 @@ line {
 }
 
 a:link, a:visited {
-  color: #000;
+  color: #FFF;
   text-decoration: none;
 }
 
 a:hover {
-  color: #666;
+  color: #E78832;
 }
 
 .hint {
@@ -84,5 +84,5 @@ a:hover {
   right: 0;
   width: 1280px;
   font-size: 12px;
-  color: #999;
+  color: #fff;
 }
