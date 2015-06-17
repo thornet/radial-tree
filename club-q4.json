@@ -1,0 +1,347 @@
+{
+ "name": "Original Team",
+ "children": [
+  {
+   "name": "Staff Organizer",
+   "children": [
+    {
+     "name": "Regional Coordinator",
+     "children": [
+      {"name": "Club Captain", "size": 3938},
+      {"name": "Club Captain", "size": 3812},
+      {"name": "Club Captain", "size": 6714},
+      {"name": "Club Captain", "size": 743}
+     ]
+    },
+    {
+     "name": "Regional Coordinator",
+     "children": [
+      {"name": "Club Captain", "size": 3534},
+      {"name": "Club Captain", "size": 5731},
+      {"name": "Club Captain", "size": 7840},
+      {"name": "Club Captain", "size": 5914},
+      {"name": "Club Captain", "size": 3416}
+     ]
+    },
+    {
+     "name": "Regional Coordinator",
+     "children": [
+      {"name": "Club Captain", "size": 7074}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Staff Organizer",
+   "children": [
+    {"name": "Regional Coordinator", "size": 17010},
+    {"name": "Regional Coordinator", "size": 5842},
+    {
+     "name": "Regional Coordinator",
+     "children": [
+     {
+       "name": "Club Captain",
+       "children": [
+        {"name": "Club Member", "size": 5219},
+        {"name": "Club Member", "size": 3165},
+        {"name": "Club Member", "size": 3509}
+       ]
+      },
+      {"name": "Club Captain", "size": 1286},
+      {"name": "Club Captain", "size": 2047},
+      {"name": "Club Captain", "size": 1375},
+      {"name": "Club Captain", "size": 8746},
+      {"name": "Club Captain", "size": 2202},
+      {"name": "Club Captain", "size": 1382},
+      {"name": "Club Captain", "size": 1629},
+      {"name": "Club Captain", "size": 1675},
+      {"name": "Club Captain", "size": 2042}
+     ]
+    },
+    {"name": "Regional Coordinator", "size": 1041},
+    {"name": "Regional Coordinator", "size": 5176},
+    {"name": "Regional Coordinator", "size": 449},
+    {"name": "Regional Coordinator", "size": 5593},
+    {"name": "Regional Coordinator", "size": 5534},
+    {"name": "Regional Coordinator", "size": 9201},
+    {"name": "Regional Coordinator", "size": 6006}
+   ]
+  },
+  {
+   "name": "Staff Organizer",
+   "children": [
+    {
+     "name": "Regional Coordinator",
+     "children": [
+      {"name": "Club Captain", "size": 721},
+      {"name": "Club Captain", "size": 4294},
+      {"name": "Club Captain", "size": 9800},
+      {"name": "Club Captain", "size": 1314},
+      {"name": "Club Captain", "size": 2220}
+     ]
+    },
+    {"name": "Regional Coordinator", "size": 1759},
+    {"name": "Regional Coordinator", "size": 2165},
+    {"name": "Regional Coordinator", "size": 586},
+    {"name": "Regional Coordinator", "size": 3331},
+    {"name": "Regional Coordinator", "size": 772},
+    {"name": "Regional Coordinator", "size": 3322}
+   ]
+  },
+  {
+   "name": "Staff Organizer",
+   "children": [
+    {"name": "Regional Coordinator", "size": 8833},
+    {"name": "Regional Coordinator", "size": 1732},
+    {"name": "Regional Coordinator", "size": 3623},
+    {"name": "Regional Coordinator", "size": 10066}
+   ]
+  },
+  {
+   "name": "Staff Organizer",
+   "children": [
+    {"name": "Regional Coordinator", "size": 4116}
+   ]
+  },
+  {
+   "name": "Staff Organizer",
+   "children": [
+    {"name": "Regional Coordinator", "size": 1082},
+    {"name": "Regional Coordinator", "size": 1336},
+    {"name": "Regional Coordinator", "size": 319},
+    {"name": "Regional Coordinator", "size": 10498},
+    {"name": "Regional Coordinator", "size": 2822},
+    {"name": "Regional Coordinator", "size": 9983},
+    {"name": "Regional Coordinator", "size": 2213},
+    {"name": "Regional Coordinator", "size": 1681}
+   ]
+  },
+  {
+   "name": "Staff Organizer",
+   "children": [
+    {"name": "Regional Coordinator", "size": 1616},
+    {"name": "Regional Coordinator", "size": 1027},
+    {"name": "Regional Coordinator", "size": 3891},
+    {"name": "Regional Coordinator", "size": 891},
+    {"name": "Regional Coordinator", "size": 2893},
+    {"name": "Regional Coordinator", "size": 5103},
+    {"name": "Regional Coordinator", "size": 3677},
+    {"name": "Regional Coordinator", "size": 781},
+    {"name": "Regional Coordinator", "size": 843},
+    {
+     "name": "Regional Coordinator",
+     "children": [
+      {"name": "Club Captain", "size": 593},
+      {"name": "Club Captain", "size": 330},
+      {"name": "Club Captain", "size": 287},
+      {"name": "Club Captain", "size": 277},
+      {"name": "Club Captain", "size": 292},
+      {"name": "Club Captain", "size": 595},
+      {"name": "Club Captain", "size": 594},
+      {"name": "Club Captain", "size": 460},
+      {"name": "Club Captain", "size": 603},
+      {"name": "Club Captain", "size": 625},
+      {"name": "Club Captain", "size": 748},
+      {"name": "Club Captain", "size": 461},
+      {"name": "Club Captain", "size": 597},
+      {"name": "Club Captain", "size": 619},
+      {"name": "Club Captain", "size": 283},
+      {"name": "Club Captain", "size": 283},
+      {"name": "Club Captain", "size": 591},
+      {"name": "Club Captain", "size": 603},
+      {"name": "Club Captain", "size": 599},
+      {"name": "Club Captain", "size": 264}
+     ]
+    },
+    {"name": "Regional Coordinator", "size": 1101}
+   ]
+  },
+  {
+   "name": "Staff Organizer",
+   "children": [
+    {"name": "Regional Coordinator", "size": 2105},
+    {"name": "Regional Coordinator", "size": 1316},
+    {"name": "Regional Coordinator", "size": 3151},
+    {"name": "Regional Coordinator", "size": 3770},
+    {"name": "Regional Coordinator", "size": 2435},
+    {"name": "Regional Coordinator", "size": 4839},
+    {"name": "Regional Coordinator", "size": 1756},
+    {"name": "Regional Coordinator", "size": 5833}
+   ]
+  },
+  {
+   "name": "Staff Organizer",
+   "children": [
+    {"name": "Regional Coordinator", "size": 8258},
+    {"name": "Regional Coordinator", "size": 10001},
+    {"name": "Regional Coordinator", "size": 8217},
+    {"name": "Regional Coordinator", "size": 12555},
+    {"name": "Regional Coordinator", "size": 2324},
+    {"name": "Regional Coordinator", "size": 10993},
+    {
+     "name": "Regional Coordinator",
+     "children": [
+      {"name": "Club Captain", "size": 9354},
+      {"name": "Club Captain", "size": 1233}
+     ]
+    },
+    {"name": "Regional Coordinator", "size": 335},
+    {"name": "Regional Coordinator", "size": 383},
+    {"name": "Regional Coordinator", "size": 874},
+    {
+     "name": "Regional Coordinator",
+     "children": [
+      {"name": "Club Captain", "size": 3165},
+      {"name": "Club Captain", "size": 2815},
+      {"name": "Club Captain", "size": 3366}
+     ]
+    },
+    {"name": "Regional Coordinator", "size": 17705},
+    {"name": "Regional Coordinator", "size": 1486},
+    {
+     "name": "Regional Coordinator",
+     "children": [
+      {"name": "Club Captain", "size": 6367},
+      {"name": "Club Captain", "size": 1229},
+      {"name": "Club Captain", "size": 2059},
+      {"name": "Club Captain", "size": 2291}
+     ]
+    },
+    {"name": "Regional Coordinator", "size": 5559},
+    {"name": "Regional Coordinator", "size": 19118},
+    {"name": "Regional Coordinator", "size": 6887},
+    {"name": "Regional Coordinator", "size": 6557},
+    {"name": "Regional Coordinator", "size": 22026}
+   ]
+  },
+  {
+   "name": "Staff Organizer",
+   "children": [
+    {
+     "name": "Regional Coordinator",
+     "children": [
+      {"name": "Club Captain", "size": 1302},
+      {"name": "Club Captain", "size": 24593},
+      {"name": "Club Captain", "size": 652},
+      {"name": "Club Captain", "size": 636},
+      {"name": "Club Captain", "size": 6703}
+     ]
+    },
+    {
+     "name": "Regional Coordinator",
+     "children": [
+      {"name": "Club Captain", "size": 2138},
+      {"name": "Club Captain", "size": 3824},
+      {"name": "Club Captain", "size": 1353},
+      {"name": "Club Captain", "size": 4665},
+      {"name": "Club Captain", "size": 2649},
+      {"name": "Club Captain", "size": 2832},
+      {"name": "Club Captain", "size": 4896},
+      {"name": "Club Captain", "size": 763},
+      {"name": "Club Captain", "size": 5222},
+      {"name": "Club Captain", "size": 7862},
+      {"name": "Club Captain", "size": 8435}
+     ]
+    },
+    {
+     "name": "Regional Coordinator",
+     "children": [
+      {"name": "Club Captain", "size": 20544},
+      {"name": "Club Captain", "size": 19788},
+      {"name": "Club Captain", "size": 10349},
+      {"name": "Club Captain", "size": 3301},
+      {"name": "Club Captain", "size": 19382},
+      {
+       "name": "Club Captain",
+       "children": [
+        {"name": "Club Member", "size": 698},
+        {"name": "Club Member", "size": 5569},
+        {"name": "Club Member", "size": 353},
+        {"name": "Club Member", "size": 2247}
+       ]
+      },
+      {"name": "Club Captain", "size": 11275},
+      {"name": "Club Captain", "size": 7147},
+      {"name": "Club Captain", "size": 9930}
+     ]
+    },
+    {
+     "name": "Regional Coordinator",
+     "children": [
+      {"name": "Club Captain", "size": 2313},
+      {"name": "Club Captain", "size": 1880},
+      {"name": "Club Captain", "size": 1701},
+      {"name": "Club Captain", "size": 1117}
+     ]
+    },
+    {
+     "name": "Regional Coordinator",
+     "children": [
+      {"name": "Club Captain", "size": 20859},
+      {"name": "Club Captain", "size": 4614},
+      {"name": "Club Captain", "size": 10530}
+     ]
+    },
+    {
+     "name": "Regional Coordinator",
+     "children": [
+      {
+       "name": "Club Captain",
+       "children": [
+        {"name": "Club Member", "size": 4461},
+        {"name": "Club Member", "size": 6314},
+        {"name": "Club Member", "size": 3444}
+       ]
+      },
+      {
+       "name": "Club Captain",
+       "children": [
+        {"name": "Club Member", "size": 3179},
+        {"name": "Club Member", "size": 4060},
+        {"name": "Club Member", "size": 4138},
+        {"name": "Club Member", "size": 1690},
+        {"name": "Club Member", "size": 1830}
+       ]
+      },
+      {
+       "name": "Club Captain",
+       "children": [
+        {"name": "Club Member", "size": 5219},
+        {"name": "Club Member", "size": 3165},
+        {"name": "Club Member", "size": 3509}
+       ]
+      },
+      {"name": "Club Captain", "size": 1286},
+      {
+       "name": "Club Captain",
+       "children": [
+        {"name": "Club Member", "size": 9956},
+        {"name": "Club Member", "size": 3899},
+        {"name": "Club Member", "size": 3202}
+       ]
+      },
+      {
+       "name": "Club Captain",
+       "children": [
+        {"name": "Club Member", "size": 6725},
+        {"name": "Club Member", "size": 3727},
+        {"name": "Club Member", "size": 9317},
+        {"name": "Club Member", "size": 12003},
+        {"name": "Club Member", "size": 4853},
+        {"name": "Club Member", "size": 8411},
+        {"name": "Club Member", "size": 4864},
+        {"name": "Club Member", "size": 3174},
+        {"name": "Club Member", "size": 9191}
+       ]
+      },
+      {"name": "Club Captain", "size": 2490},
+      {"name": "Club Captain", "size": 5248},
+      {"name": "Club Captain", "size": 4190},
+      {"name": "Club Captain", "size": 2581},
+      {"name": "Club Captain", "size": 2023}
+     ]
+    }
+   ]
+  }
+ ]
+}
