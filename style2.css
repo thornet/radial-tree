@@ -1,0 +1,78 @@
+body {
+  background-color:#1E92CE;
+  overflow: hidden;
+  margin: 0;
+  font-size: 14px;  
+  font-family: 'Open Sans', sans-serif;  
+}
+
+.string, .regexp {
+  color: #f39;
+}
+
+.keyword {
+  color: #fff;
+}
+
+.comment {
+  color: #e3eaee;
+  font-style: oblique;
+}
+
+.number {
+  color: #fff;
+}
+
+.class, .special {
+  color: #01527D;
+}
+
+a:link, a:visited {
+  color: #FFF;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #E78832;
+}
+
+.node {
+    cursor: pointer;
+}
+.overlay {
+    background-color: #1E92CE;
+}
+.node circle {
+  cursor: pointer;
+  fill: #fff;
+  stroke: #E78832;
+  stroke-width: 1.5px;
+}
+
+.node text {
+  font-size: 14px;
+  fill: #fff;    
+}
+
+path.link {
+  fill: none;
+  stroke: #61B2DC;
+  stroke-width: 1.5px;
+}
+
+.link {
+    fill: none;
+    stroke: #61B2DC;
+    stroke-width: 1.5px;
+}
+.templink {
+    fill: none;
+    stroke: #ffcd36;
+    stroke-width: 3px;
+}
+.ghostCircle.show {
+    display:block;
+}
+.ghostCircle, .activeDrag .ghostCircle {
+    display: none;
+}
