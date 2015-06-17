@@ -38,10 +38,8 @@ path.link {
     </div>
     <script type="text/javascript">
 
-d3.json("flare.json", function(json) {
-  root = json;
-  root.x0 = h / 2;
-  root.y0 = 0;
+// Get JSON data
+treeData = flare.getJSON;
 
 // Calculate total nodes, max label length
 var totalNodes = 0;
