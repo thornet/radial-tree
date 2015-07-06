@@ -1,4 +1,4 @@
-myJSON ={
+myJSON = {
  "name": "Original Team",
  "children": [
   {
@@ -345,6 +345,7 @@ myJSON ={
   }
  ]
 }
+
 
 // Get JSON data
 treeData = myJSON;
